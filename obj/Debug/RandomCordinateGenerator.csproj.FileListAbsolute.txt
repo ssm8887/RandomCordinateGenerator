@@ -1,0 +1,16 @@
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\bin\Debug\RandomCordinateGenerator.exe.config
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\bin\Debug\RandomCordinateGenerator.exe
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\bin\Debug\RandomCordinateGenerator.pdb
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\RandomCordinateGenerator.csprojAssemblyReference.cache
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\App.g.cs
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\RandomCordinateGenerator_MarkupCompile.cache
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\RandomCordinateGenerator_MarkupCompile.lref
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\MainWindow.baml
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\RandomCordinateGenerator.g.resources
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\RandomCordinateGenerator.Properties.Resources.resources
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\RandomCordinateGenerator.csproj.GenerateResource.cache
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\RandomCordinateGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\RandomCordinateGenerator.exe
+C:\Users\Sung's\source\repos\UdpConnectionTest\RandomCordinateGenerator\obj\Debug\RandomCordinateGenerator.pdb
